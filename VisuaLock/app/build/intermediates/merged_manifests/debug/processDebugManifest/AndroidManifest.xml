@@ -48,9 +48,6 @@
             android:name="com.example.visualock.AddImageActivity"
             android:exported="false" />
         <activity
-            android:name="com.example.visualock.EditNameDialogFragment"
-            android:exported="false" />
-        <activity
             android:name="com.example.visualock.AboutActivity"
             android:exported="false"
             android:theme="@style/AppTheme.NoActionBar" />
@@ -84,8 +81,7 @@
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="com.example.visualock.MainActivity"
-            android:exported="true"
-            android:label="@string/app_name" />
+            android:exported="true" />
         <activity
             android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
             android:excludeFromRecents="true"

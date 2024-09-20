@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "com.example.visualock.app-release-50:/drawable_setting_24.png.flat",
+        "source": "com.example.visualock.app-main-51:/drawable/setting_24.png"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/layout_dialog_edit_name.xml.flat",
+        "source": "com.example.visualock.app-main-51:/layout/dialog_edit_name.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.visualock.app-main-51:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/layout_activity_splash.xml.flat",
+        "source": "com.example.visualock.app-main-51:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/drawable_trash_icon.png.flat",
+        "source": "com.example.visualock.app-main-51:/drawable/trash_icon.png"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/layout_activity_login.xml.flat",
+        "source": "com.example.visualock.app-main-51:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.visualock.app-main-51:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/drawable_baseline_arrow_back_24.xml.flat",
+        "source": "com.example.visualock.app-main-51:/drawable/baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/drawable_ic_user.webp.flat",
+        "source": "com.example.visualock.app-main-51:/drawable/ic_user.webp"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/drawable_info_24.png.flat",
+        "source": "com.example.visualock.app-main-51:/drawable/info_24.png"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/layout_fragment_dashboard.xml.flat",
+        "source": "com.example.visualock.app-main-51:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/navigation_mobile_navigation.xml.flat",
+        "source": "com.example.visualock.app-main-51:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/layout_activity_profile.xml.flat",
+        "source": "com.example.visualock.app-main-51:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/layout_fragment_home.xml.flat",
+        "source": "com.example.visualock.app-main-51:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/drawable_circle.xml.flat",
+        "source": "com.example.visualock.app-main-51:/drawable/circle.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.visualock.app-main-51:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.visualock.app-main-51:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.visualock.app-main-51:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/layout_dialog_edit_email.xml.flat",
+        "source": "com.example.visualock.app-main-51:/layout/dialog_edit_email.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/drawable_circle_border.xml.flat",
+        "source": "com.example.visualock.app-main-51:/drawable/circle_border.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/drawable_grad.xml.flat",
+        "source": "com.example.visualock.app-main-51:/drawable/grad.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.visualock.app-main-51:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/layout_activity_main.xml.flat",
+        "source": "com.example.visualock.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/layout_activity_setting.xml.flat",
+        "source": "com.example.visualock.app-main-51:/layout/activity_setting.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/layout_activity_register.xml.flat",
+        "source": "com.example.visualock.app-main-51:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/layout_fragment_notifications.xml.flat",
+        "source": "com.example.visualock.app-main-51:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/layout_menu_item.xml.flat",
+        "source": "com.example.visualock.app-main-51:/layout/menu_item.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/layout_activity_graph_login.xml.flat",
+        "source": "com.example.visualock.app-main-51:/layout/activity_graph_login.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "com.example.visualock.app-main-51:/drawable/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/layout_activity_about.xml.flat",
+        "source": "com.example.visualock.app-main-51:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/drawable_password_icon.png.flat",
+        "source": "com.example.visualock.app-main-51:/drawable/password_icon.png"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.visualock.app-main-51:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/layout_activity_graph_password.xml.flat",
+        "source": "com.example.visualock.app-main-51:/layout/activity_graph_password.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/drawable_user_24.png.flat",
+        "source": "com.example.visualock.app-main-51:/drawable/user_24.png"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/layout_fragment_menu.xml.flat",
+        "source": "com.example.visualock.app-main-51:/layout/fragment_menu.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/drawable_logout_24.png.flat",
+        "source": "com.example.visualock.app-main-51:/drawable/logout_24.png"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.visualock.app-main-51:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "com.example.visualock.app-main-51:/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/drawable_ic_home_black_24dp.xml.flat",
+        "source": "com.example.visualock.app-main-51:/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.visualock.app-main-51:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/drawable_custom_edittext.xml.flat",
+        "source": "com.example.visualock.app-main-51:/drawable/custom_edittext.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.visualock.app-main-51:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.visualock.app-main-51:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/drawable_visualock_app_logo.png.flat",
+        "source": "com.example.visualock.app-main-51:/drawable/visualock_app_logo.png"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/layout_activity_storage.xml.flat",
+        "source": "com.example.visualock.app-main-51:/layout/activity_storage.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.visualock.app-main-51:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/drawable_visualock_logo.png.flat",
+        "source": "com.example.visualock.app-main-51:/drawable/visualock_logo.png"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.visualock.app-main-51:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/drawable_add_image_icon.png.flat",
+        "source": "com.example.visualock.app-main-51:/drawable/add_image_icon.png"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/layout_activity_add_image.xml.flat",
+        "source": "com.example.visualock.app-main-51:/layout/activity_add_image.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/drawable_baseline_lock_24.xml.flat",
+        "source": "com.example.visualock.app-main-51:/drawable/baseline_lock_24.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/drawable_baseline_person_24.xml.flat",
+        "source": "com.example.visualock.app-main-51:/drawable/baseline_person_24.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.visualock.app-main-51:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/drawable_placeholder_image.png.flat",
+        "source": "com.example.visualock.app-main-51:/drawable/placeholder_image.png"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/drawable_baseline_density_medium_24.xml.flat",
+        "source": "com.example.visualock.app-main-51:/drawable/baseline_density_medium_24.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/xml_backup_rules.xml.flat",
+        "source": "com.example.visualock.app-main-51:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/layout_activity_forgot_password.xml.flat",
+        "source": "com.example.visualock.app-main-51:/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.visualock.app-main-51:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/drawable_storage_icon.png.flat",
+        "source": "com.example.visualock.app-main-51:/drawable/storage_icon.png"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/drawable_letter.png.flat",
+        "source": "com.example.visualock.app-main-51:/drawable/letter.png"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/layout_item_image.xml.flat",
+        "source": "com.example.visualock.app-main-51:/layout/item_image.xml"
+    },
+    {
+        "merged": "com.example.visualock.app-release-50:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.visualock.app-main-51:/menu/bottom_nav_menu.xml"
+    }
+]
